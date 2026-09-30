@@ -1,0 +1,23 @@
+# ---- Personal intern notes (kept on your PC, NOT pushed to GitHub) ----
+_MY_PLAYBOOK/
+**/_MY_GUIDE.md
+
+# ---- Python / Jupyter ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- OS / editor clutter ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ---- Large media (upload demo videos to LinkedIn, not GitHub) ----
+*.mp4
+*.mov
+*.mkv
